@@ -13,4 +13,4 @@
 
 ## Cleaned
 - cleaned_all.csv => data of all raw data above that deduplicate and remove reposted_username = username
-- cleaned_community_{n}_nodes.csv => cleaned_data that created into connected communities so that each connected community is created a file containing {n} nodes
+- cleaned_community_{n}_nodes.csv => cleaned_data is created into connected communities so that each connected community is created a file containing {n} nodes
